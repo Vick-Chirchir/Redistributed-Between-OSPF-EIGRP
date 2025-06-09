@@ -24,20 +24,20 @@ Network Design: <br/>
 <img src="https://i.imgur.com/bcQgPyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP Server Config on the Router(Router 1):  <br/>
-<img src="https://i.imgur.com/okCHFdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EIGRP Enabled Router(R 1):  <br/>
+<img src="https://i.imgur.com/dDu0dE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interface Config with Loopback interface as the IP address to the DHCP Server: <br/>
-<img src="https://i.imgur.com/8QABK5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EIGRP and OSPF Enables on Router (R 2): <br/>
+<img src="https://i.imgur.com/4HPoFon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+OSPF Enables on Router (R 3):  <br/>
+<img src="https://i.imgur.com/ggLj5sW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verify Communication between Devices on both Sites:  <br/>
-<img src="https://i.imgur.com/wdv5L5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verifying PC0 can Communicate to Router R 1:  <br/>
+<img src="https://i.imgur.com/754eRuV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
